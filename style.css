@@ -1,0 +1,13 @@
+h1 {
+    font-size: larger;
+    font-style: italic;
+    color: blueviolet;
+  }
+  h3 {
+    font-style: italic;
+    color: red;
+  }
+  pre {
+    font-style: italic;
+  }
+  
